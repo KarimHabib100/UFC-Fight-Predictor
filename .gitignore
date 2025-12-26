@@ -55,5 +55,4 @@ Thumbs.db
 # Keep model files tracked (they're essential)
 # models/
 
-# Plots generated during training
-plots/
+# Plots generated during training - keeping tracked for results
